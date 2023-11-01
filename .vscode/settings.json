@@ -1,0 +1,9 @@
+{
+ "typescript.tsserver.enableTracing": true,
+ "typescript.tsserver.experimental.enableProjectDiagnostics": true,
+ "typescript.tsserver.log": "normal",
+ "typescript.tsserver.nodePath": "16da4a8ea7ee7f56bc567756658712d1",
+ "typescript.tsserver.useSyntaxServer": "never",
+ "typescript.updateImportsOnFileMove.enabled": "always",
+ "typescript.workspaceSymbols.scope": "allOpenProjects"
+}
